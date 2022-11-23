@@ -1,0 +1,12 @@
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form1.resources
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\kirik\Desktop\c#\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form2.resources
